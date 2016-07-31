@@ -11,4 +11,4 @@ PHP (with MySQLi extension)
 follow the instructions on http://postpublish.fromabctill.xyz/install.php
 
 #help
-please contact the developer for any queries / suggestions / reviews / anything...
+please contact the developer for any queries / suggestions / reviews / anything on this email: gotoharshal[at]gmail.com
