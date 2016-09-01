@@ -12,3 +12,7 @@ follow the instructions on http://postpublish.fromabctill.xyz/install.php
 
 #help
 please contact the developer, Harshal Gajjar, for any queries / suggestions / reviews / anything on this email: gotoharshal[at]gmail.com or by using this contact form http://fromabctill.xyz/contact.php
+
+#Changelog
+v1.0 PostPublish made available 
+v1.1 MySQLi Escape string fixed
